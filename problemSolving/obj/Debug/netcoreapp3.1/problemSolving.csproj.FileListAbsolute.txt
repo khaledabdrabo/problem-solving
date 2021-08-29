@@ -1,0 +1,13 @@
+D:\ZatonaTech\problemSolving\problemSolving\bin\Debug\netcoreapp3.1\problemSolving.exe
+D:\ZatonaTech\problemSolving\problemSolving\bin\Debug\netcoreapp3.1\problemSolving.deps.json
+D:\ZatonaTech\problemSolving\problemSolving\bin\Debug\netcoreapp3.1\problemSolving.runtimeconfig.json
+D:\ZatonaTech\problemSolving\problemSolving\bin\Debug\netcoreapp3.1\problemSolving.runtimeconfig.dev.json
+D:\ZatonaTech\problemSolving\problemSolving\bin\Debug\netcoreapp3.1\problemSolving.dll
+D:\ZatonaTech\problemSolving\problemSolving\bin\Debug\netcoreapp3.1\problemSolving.pdb
+D:\ZatonaTech\problemSolving\problemSolving\obj\Debug\netcoreapp3.1\problemSolving.csprojAssemblyReference.cache
+D:\ZatonaTech\problemSolving\problemSolving\obj\Debug\netcoreapp3.1\problemSolving.AssemblyInfoInputs.cache
+D:\ZatonaTech\problemSolving\problemSolving\obj\Debug\netcoreapp3.1\problemSolving.AssemblyInfo.cs
+D:\ZatonaTech\problemSolving\problemSolving\obj\Debug\netcoreapp3.1\problemSolving.csproj.CoreCompileInputs.cache
+D:\ZatonaTech\problemSolving\problemSolving\obj\Debug\netcoreapp3.1\problemSolving.dll
+D:\ZatonaTech\problemSolving\problemSolving\obj\Debug\netcoreapp3.1\problemSolving.pdb
+D:\ZatonaTech\problemSolving\problemSolving\obj\Debug\netcoreapp3.1\problemSolving.genruntimeconfig.cache
