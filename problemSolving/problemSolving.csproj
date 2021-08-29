@@ -6,12 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="problems\NewFolder1\**" />
-    <EmbeddedResource Remove="problems\NewFolder1\**" />
-    <None Remove="problems\NewFolder1\**" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Remove="problems\RightSmallerThan.cs~RF1cbf18a6.TMP" />
   </ItemGroup>
 
